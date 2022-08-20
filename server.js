@@ -164,4 +164,4 @@ if (process.env.NODE_ENV === "production") {
   });
 }
 
-app.listen(process.env.PORT || 9000, () => console.log("Be started"));
+app.listen(process.env.PORT || 9000, () => console.log("Backend Initiated"));
