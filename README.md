@@ -18,7 +18,9 @@ Voice Call: Some of your tasks are due. It's not goof to procrastinare
 
 
 ## Deployment 
-Heroku : https://polar-atoll-46156.herokuapp.com/
+Heroku : https://polar-atoll-46156.herokuapp.com/ 
+
+*** (Server facing some issue frontend working)
 
 ### FrontEnd
 To install NPM dependencies : ``` npm install ```  
